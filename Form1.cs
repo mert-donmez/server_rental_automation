@@ -68,7 +68,7 @@ namespace server_kiralama
                 SqlDataAdapter da = new SqlDataAdapter(komut);
                 da.Fill(dt);
 
-                if (dt.Rows.Count > 0 && Convert.ToInt32(user_input_captcha) == Convert.ToInt32(captcha)) // captcha düzeltilecek
+                if (dt.Rows.Count > 0 && Convert.ToInt32(user_input_captcha) == Convert.ToInt32(captcha)) 
                 {
                     SqlCommand cmd = new SqlCommand("select *from login_Table where login_username='" + textBox1.Text+ "'", con);
                     SqlDataReader dr = cmd.ExecuteReader();
