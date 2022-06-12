@@ -1,0 +1,14 @@
+C:\Users\win10-VM\source\repos\server_kiralama\bin\Debug\server_kiralama.exe.config
+C:\Users\win10-VM\source\repos\server_kiralama\bin\Debug\server_kiralama.exe
+C:\Users\win10-VM\source\repos\server_kiralama\bin\Debug\server_kiralama.pdb
+C:\Users\win10-VM\source\repos\server_kiralama\obj\Debug\server_kiralama.csproj.AssemblyReference.cache
+C:\Users\win10-VM\source\repos\server_kiralama\obj\Debug\server_kiralama.Form1.resources
+C:\Users\win10-VM\source\repos\server_kiralama\obj\Debug\server_kiralama.Form2.resources
+C:\Users\win10-VM\source\repos\server_kiralama\obj\Debug\server_kiralama.Form3.resources
+C:\Users\win10-VM\source\repos\server_kiralama\obj\Debug\server_kiralama.Form4.resources
+C:\Users\win10-VM\source\repos\server_kiralama\obj\Debug\server_kiralama.Properties.Resources.resources
+C:\Users\win10-VM\source\repos\server_kiralama\obj\Debug\server_kiralama.csproj.GenerateResource.cache
+C:\Users\win10-VM\source\repos\server_kiralama\obj\Debug\server_kiralama.csproj.CoreCompileInputs.cache
+C:\Users\win10-VM\source\repos\server_kiralama\obj\Debug\server_kiralama.exe
+C:\Users\win10-VM\source\repos\server_kiralama\obj\Debug\server_kiralama.pdb
+C:\Users\win10-VM\source\repos\server_kiralama\obj\Debug\server_kiralama.Form5.resources
