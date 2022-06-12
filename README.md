@@ -25,6 +25,7 @@
 
 ### And The world's simplest admin panel 
 - (I had to do it in like 5 minutes)
+- To use the admin panel, you need to log in with the "admin" username.
 
 ![Screenshot from 2022-06-12 03-17-32](https://user-images.githubusercontent.com/83416622/173209722-f6e0689d-fff9-4acf-b735-1ead6d8e8582.png)
 
